@@ -5,8 +5,7 @@
 
 .title {
     font-size: 175%;
-    position: absolute;
-    left: 50%;
+    text-align: center;
 }
 
 .container {
@@ -96,7 +95,7 @@ p {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .container-chicken {
         float: left;
         border: 1px solid black;
