@@ -64,5 +64,5 @@ p {
     background: gray;
     height: 1000px;
     margin-top: 4%;
-    overflow: hidden;
+    overflow: auto;
 }
